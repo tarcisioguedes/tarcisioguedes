@@ -13,7 +13,6 @@ Me chamo Tarcísio Guedes, sou desenvolvedor web e estou construindo meus primei
 <br>
 <br>
 📂 Aqui você encontra meus experimentos, anotações e projetos de prática
-
 <br>
 <br>
 🚀 Sempre aberto a aprender, melhorar e compartilhar conhecimento
